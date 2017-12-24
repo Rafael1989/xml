@@ -13,7 +13,7 @@ import org.xml.sax.SAXException;
 
 import br.com.alura.model.Produto;
 
-public class ReadXMLTest {
+public class ReadXMLDOM {
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
 		DocumentBuilderFactory fabrica = DocumentBuilderFactory.newInstance();
 		fabrica.setValidating(true);
