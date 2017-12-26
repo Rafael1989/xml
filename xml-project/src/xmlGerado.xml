@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<venda>
+<formaDePagamento>Débito</formaDePagamento>
+<produtos>
+<produto>
+<nome>Tênis</nome>
+<preco>24.69</preco>
+</produto>
+</produtos>
+</venda>
